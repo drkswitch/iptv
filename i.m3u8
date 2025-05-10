@@ -33,6 +33,8 @@ http://live-stream-09.ott.tricolor.tv/live/live/REN-TV_0_hd/hls_enc/REN-TV_0_hd-
 #EXTINF:-1 tvg-id="698" tvg-logo="http://epg.one/img/698.png" group-title="Федеральные",ТВ-3
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1 tvg-id="698" tvg-logo="http://epg.one/img/698.png" group-title="Федеральные",ТВ-3
+https://live-mirror-06.ott.tricolor.tv/live/live/tv3_hd/hls_enc/tv3_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NzAyODkzNCwiaHdpZCI6IjNmNmNlNzQ5YzdiZTg3NWI2Y2JjMDdmMTBiODI4ZjY4NzNlY2UzNzczMGM0ZmYzNjVkZDU4YWUzOGY4MWU4ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzQ2NDI0MTM0LCJzZXNzaW9uX2lkIjoiZmM2MTVjZTFlMDFhN2FmNTJhZmQ2NTEwNTU4OGRlYjgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YpNDF_r2TzPTe4wvUI9A9d-VIdEM20Q_aBVv1H9RTck
 #EXTINF:-1 tvg-id="1598" tvg-logo="http://epg.one/img/1598.png" group-title="Федеральные",Че!
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
