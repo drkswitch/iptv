@@ -448,6 +448,8 @@ http://194.143.148.28:8080/RTG_HD/index.m3u8
 http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="277" tvg-logo="https://iptvx.one/picons/viasat-history.png" group-title="Познавательные",Viju HISTORY
 http://188.190.222.53/Viasat_History/index.m3u8
+#EXTINF:-1 tvg-id="277" tvg-logo="https://iptvx.one/picons/viasat-history.png" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательные",Viju History HD
+http://api.peers.tv/timeshift/viasat_history/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDY5NzgzODAsImlhdCI6MTc0Njg5MTk4MCwiY2lkIjo2LCJ1aWQiOjkxNTM1NzA4NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.GPMTA4ZziA1zAE-m4-U7Swxrf_tWuOhwmRHrIy-AtMY&offset=3
 #EXTINF:-1 tvg-id="765" tvg-logo="http://epg.one/img/765.png" group-title="Познавательные",Viju NATURE
 http://109.70.186.70:9090/udp/239.185.1.7:1234
 #EXTINF:-1 tvg-id="2768" tvg-logo="https://iptvx.one/picons/arsenaltv.png" group-title="Познавательные",Арсенал (HD)
