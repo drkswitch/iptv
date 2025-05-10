@@ -167,6 +167,8 @@ http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Развлекательные",4K Travel TV
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Развлекательные",Travel XP HD
+http://109.248.236.51/discovery_channel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="2168" tvg-logo="https://i.imgur.com/9WcnjQN.png" group-title="Русский кинозал",Астрахань 24
 https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 #EXTINF:-1 tvg-id="86.ru" tvg-logo="https://i.imgur.com/0dRS4Cb.png" group-title="Развлекательные",86
