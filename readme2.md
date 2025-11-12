@@ -29,7 +29,8 @@
 
 
 Тебе нужно в папку Device/Documents скопировать файл подключения OpenVPN
-(сам файл скачать можно тут: https://raw.githubusercontent.com/drkswitch/iptv/refs/heads/main/antizapret-tcp.ovpn)
+(сам файл скачать можно по этой ссылке: https://raw.githubusercontent.com/drkswitch/iptv/refs/heads/main/antizapret-tcp.ovpn)
+
 <img width="1157" height="602" alt="9" src="https://github.com/user-attachments/assets/17cc89b7-6026-4f68-98d2-55032ad0922f" />
 
 
