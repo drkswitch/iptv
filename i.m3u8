@@ -13,16 +13,16 @@ https://live-mirror-01.ott.tricolor.tv/live/live/TV_Center_HD/hls_enc/TV_Center_
 #EXTINF:-1 tvg-id="162" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Федеральные",НТВ (HD)
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="6257" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Федеральные",СТС (HD)
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_0_hd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Развлекательные",RUTUBE TB (HD)
-https://salam-mskugr-12.rutube.ru/dive/river-3-327.rutube.ru/MV-7a4q-88HZlbyh9gIJSQ/stream/genetta-326.m9.rutube.ru/1L5oO9vdAjVv_TFfFlfs-w/1746644810/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
+http://158.101.222.193:88/georgia_play.php?id=ctctv
 #EXTINF:-1 tvg-id="1322" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer",СТС Love
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="Федеральные",ТНТ (HD)
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tnt_hd
-#EXTINF:-1 tvg-id="1003" tvg-logo="https://i.imgur.com/N2z3EZC.png" group-title="Федеральные",Пятница! Int
-https://cdn2.skygo.mn/live/disk1/Friday/HLS-FTA/Friday.m3u8
+http://158.101.222.193:88/georgia_play.php?id=ctctv
+#EXTINF:-1 tvg-id="tnt" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp} tvg-logo="https://iptvx.one/picons/tnt.png" group-title="Федеральные",ТНТ 4
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:-1 tvg-id="1003" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.imgur.com/N2z3EZC.png" group-title="Федеральные",Пятница! Int
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 tvg-id="18" tvg-logo="https://iptvx.one/picons/rentv-int.png" group-title="Федеральные",Рен ТВ Int (HD ready)
 https://cdn2.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 #EXTINF:-1 tvg-id="18" tvg-logo="http://epg.one/img2/18.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные",Рен ТВ (WVGA)
