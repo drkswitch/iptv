@@ -33,8 +33,6 @@ http://live-stream-09.ott.tricolor.tv/live/live/REN-TV_0_hd/hls_enc/REN-TV_0_hd-
 #EXTINF:-1 tvg-id="698" tvg-logo="http://epg.one/img/698.png" group-title="Федеральные",ТВ-3
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:-1 tvg-id="698" tvg-logo="http://epg.one/img/698.png" group-title="Федеральные",ТВ-3
-https://live-mirror-06.ott.tricolor.tv/live/live/tv3_hd/hls_enc/tv3_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NzAyODkzNCwiaHdpZCI6IjNmNmNlNzQ5YzdiZTg3NWI2Y2JjMDdmMTBiODI4ZjY4NzNlY2UzNzczMGM0ZmYzNjVkZDU4YWUzOGY4MWU4ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzQ2NDI0MTM0LCJzZXNzaW9uX2lkIjoiZmM2MTVjZTFlMDFhN2FmNTJhZmQ2NTEwNTU4OGRlYjgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YpNDF_r2TzPTe4wvUI9A9d-VIdEM20Q_aBVv1H9RTck
 #EXTINF:-1 tvg-id="1598" tvg-logo="http://epg.one/img/1598.png" group-title="Федеральные",Че!
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
@@ -52,6 +50,8 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 http://130.193.73.10:8937/play/a014
 #EXTINF:-1 tvg-id="726" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Федеральные",Мир (HD)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png" group-title="Новости",Соловьев.Live HD
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 tvg-id="743" tvg-logo="https://iptvx.one/picons/rbk.png" group-title="Новости",РБК (HD)
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 tvg-id="2295" tvg-logo="https://iptvx.one/picons/rt-doc.png" group-title="Новости",Russia Today Документальный
@@ -68,7 +68,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 tvg-id="tv-brics" tvg-logo="https://iptvx.one/picons/tv-brics.png" group-title="Федеральные",TV BRICS (HD)
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="187" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="Познавательные",Россия К (HD)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIAKHD.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="323" tvg-logo="http://epg.one/img/323.png" group-title="Познавательные",2x2 (HD)
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 tvg-id="2432" tvg-logo="http://epg.one/img/2432.png" group-title="Познавательные",Живая планета
