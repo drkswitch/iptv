@@ -43,12 +43,14 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-id="726" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Федеральные",Мир (HD)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="2051" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч! (HD)
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png" group-title="Новости",Соловьев.Live HD
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 tvg-id="743" tvg-logo="https://iptvx.one/picons/rbk.png" group-title="Новости",РБК (HD)
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 tvg-id="2295" tvg-logo="https://iptvx.one/picons/rt-doc.png" group-title="Новости",Russia Today Документальный
-https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
+http://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="4458" tvg-logo="https://iptvx.one/picons/360-news.png" group-title="Новости",360° Новости (HD)
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 #EXTINF:-1 tvg-id="2265" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png" group-title="Познавательные",360° (HD)
@@ -58,6 +60,14 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/track
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 tvg-id="187" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="Познавательные",Россия К (HD)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 tvg-id="1588" tvg-logo="http://epg.one/img/1588.png" group-title="Кинозал",Остросюжетное (HD)
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ostrosuzhetnoe
+#EXTINF:-1 tvg-id="2833" tvg-logo="http://epg.one/img/2833.png" group-title="Кинозал",Хит (HD)
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hit_HD
+#EXTINF:-1 tvg-id="2020" tvg-logo="http://epg.one/img2/2020.png" group-title="Русский кинозал",Дом кино Премиум (HD)
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Dom_Kino_premium
+#EXTINF:-1 tvg-id="6258" tvg-logo="http://epg.one/img/6258.png" group-title="Русский кинозал",Кино 1 Int (WVGA)
+http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="2801" tvg-logo="http://epg.one/img/2801.png" group-title="Познавательные",Love Nature (4K)
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.iptvx.one/picons/tvmchannel.png" group-title="Познавательные",TVM Channel
@@ -358,16 +368,8 @@ http://130.193.73.10:8937/play/a02s
 http://130.193.73.10:8937/play/a02t
 #EXTINF:-1 tvg-id="2407" tvg-logo="http://epg.one/img/2407.png" group-title="Кинозал",Киноман
 http://178.212.71.253:8000/play/66/index.m3u8
-#EXTINF:-1 tvg-id="1588" tvg-logo="http://epg.one/img/1588.png" group-title="Кинозал",Остросюжетное (HD)
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ostrosuzhetnoe
-#EXTINF:-1 tvg-id="2833" tvg-logo="http://epg.one/img/2833.png" group-title="Кинозал",Хит (HD)
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hit_HD
 #EXTINF:-1 tvg-id="267" tvg-logo="http://epg.one/img/267.png" group-title="Русский кинозал",Viju TV1000 Русское (EDTV)
 http://130.193.73.10:8937/play/a02u
-#EXTINF:-1 tvg-id="2020" tvg-logo="http://epg.one/img2/2020.png" group-title="Русский кинозал",Дом кино Премиум (HD)
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Dom_Kino_premium
-#EXTINF:-1 tvg-id="6258" tvg-logo="http://epg.one/img/6258.png" group-title="Русский кинозал",Кино 1 Int (WVGA)
-http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="2447" tvg-logo="https://iptvx.one/picons/pobeda.png" group-title="Русский кинозал",Победа (HD ready)
 #EXTVLCOPT:http-referrer=https://pobeda.tv/
 https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b5128000_slru.m3u8
@@ -385,8 +387,6 @@ https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/playlist.m3u8
 #EXTINF:-1 tvg-id="1679" tvg-logo="https://iptvx.one/picons/konny-mir.png" group-title="Спортивные",Конный Мир
 https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="2051" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч! (HD)
-http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1 tvg-id="4629" tvg-logo="https://iptvx.one/picons/mir-basketbola.png" group-title="Спортивные",Мир баскетбола
 http://130.193.73.10:8937/play/a04m
 #EXTINF:-1 tvg-id="2530" tvg-logo="https://iptvx.one/picons/start.png" group-title="Спортивные",Старт
