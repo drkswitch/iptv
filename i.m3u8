@@ -32,7 +32,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 tvg-id="698" tvg-logo="http://epg.one/img/698.png" group-title="Федеральные",ТВ-3
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:-1 tvg-id="698" tvg-logo="http://epg.one/img/698.png" group-title="Федеральные",ТВ-3(эфир rutube)
+#EXTINF:-1 tvg-id="698" tvg-logo="http://epg.one/img/698.png" group-title="Федеральные",ТВ-3 (эфир rutube)
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=4nSOhnR1Ms1xMjzJLP5Trg&e=2066086620&scheme=https
 #EXTINF:-1 tvg-id="1598" tvg-logo="http://epg.one/img/1598.png" group-title="Федеральные",Че!
