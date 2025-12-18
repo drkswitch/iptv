@@ -46,6 +46,8 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:-1 tvg-id="2271" tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="Новости",Известия (HD)
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 tvg-id="2139" tvg-logo="http://epg.one/img/2139.png" group-title="Развлекательные",Теледом
+http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 tvg-id="726" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Федеральные",Мир (HD)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="2051" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч! (HD)
