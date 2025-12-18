@@ -53,17 +53,11 @@ https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 #EXTINF:-1 tvg-id="2265" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png" group-title="Познавательные",360° (HD)
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="2401" tvg-logo="https://iptvx.one/picons/rtvi.png" group-title="Федеральные",RTVi (EDTV)
-http://45.143.108.110:2203/RTVi
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="304" tvg-logo="https://iptvx.one/picons/domashny.png" group-title="Развлекательные",Домашний
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 tvg-id="tv-brics" tvg-logo="https://iptvx.one/picons/tv-brics.png" group-title="Федеральные",TV BRICS (HD)
-http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="187" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="Познавательные",Россия К (HD)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1 tvg-id="323" tvg-logo="http://epg.one/img/323.png" group-title="Познавательные",2x2 (HD)
-https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 tvg-id="2432" tvg-logo="http://epg.one/img/2432.png" group-title="Познавательные",Живая планета
 http://130.193.73.10:8937/play/a01m
 #EXTINF:-1 tvg-id="2495" tvg-logo="http://epg.one/img/2495.png" group-title="Познавательные",Живая природа (HD)
