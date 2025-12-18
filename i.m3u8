@@ -24,12 +24,17 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 tvg-id="1003" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.imgur.com/N2z3EZC.png" group-title="Федеральные",Пятница! Int
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1 tvg-id="1003" tvg-logo="https://i.imgur.com/N2z3EZC.png" group-title="Федеральные",Пятница! (эфир rutube)
+https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=dHnsJyH3EwUV7_BGBMdTlg&e=2066087025&scheme=https
 #EXTINF:-1 tvg-id="18" tvg-logo="http://epg.one/img2/18.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные",Рен ТВ (WVGA)
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 tvg-id="698" tvg-logo="http://epg.one/img/698.png" group-title="Федеральные",ТВ-3
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1 tvg-id="698" tvg-logo="http://epg.one/img/698.png" group-title="Федеральные",ТВ-3(эфир rutube)
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=4nSOhnR1Ms1xMjzJLP5Trg&e=2066086620&scheme=https
 #EXTINF:-1 tvg-id="1598" tvg-logo="http://epg.one/img/1598.png" group-title="Федеральные",Че!
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
