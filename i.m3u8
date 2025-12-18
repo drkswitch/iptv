@@ -58,35 +58,10 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/track
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 tvg-id="187" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="Познавательные",Россия К (HD)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1 tvg-id="2432" tvg-logo="http://epg.one/img/2432.png" group-title="Познавательные",Живая планета
-http://130.193.73.10:8937/play/a01m
-#EXTINF:-1 tvg-id="2495" tvg-logo="http://epg.one/img/2495.png" group-title="Познавательные",Живая природа (HD)
-http://178.212.71.253:8000/play/79/index.m3u8
-#EXTINF:-1 tvg-id="365" tvg-logo="http://epg.one/img/365.png" group-title="Познавательные",Animal Planet
-http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="7623" tvg-logo="http://epg.one/img/7623.png" group-title="Познавательные",Big Planet
-http://109.200.130.123:7537/play/a02j
-#EXTINF:-1 tvg-id="325" tvg-logo="http://epg.one/img/325.png" group-title="Познавательные",Discovery
-http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="325" tvg-logo="http://epg.one/img/325.png" group-title="Познавательные",Discovery Channel HD
-https://tv.movielab.pro/147/video.m3u8?token=44618d43aaaf63e282c345da4f421141398e9bf3-2baeac8e9c781306a5e77009788f2305-1746946546-1746860146
-#EXTINF:-1 tvg-id="2418" tvg-logo="http://epg.one/img/2418.png" group-title="Познавательные",Galaxy TV
-http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="2801" tvg-logo="http://epg.one/img/2801.png" group-title="Познавательные",Love Nature (4K)
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-id="223" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные",Nat Geo Wild HD
-http://188.237.47.212:6005
-#EXTINF:-1 tvg-id="102" tvg-logo="http://epg.one/img/102.png" group-title="Познавательные",National Geographic
-http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="8940" tvg-logo="http://epg.one/img/8940.png" group-title="Познавательные",Viasat History
-http://213.91.178.133:8000/play/a03r
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.iptvx.one/picons/tvmchannel.png" group-title="Познавательные",TVM Channel
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=TVMChannel
-#EXTINF:-1 tvg-id="5841" tvg-logo="http://epg.one/img/5841.png" group-title="Новости",12 канал (Омск)
-https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
-#EXTINF:-1 tvg-id="9015" tvg-logo="https://iptvx.one/picons/neizvestnaya-rosia.png" group-title="Федеральные",Неизвестная Россия (HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.69
-http://cdn.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="5818" tvg-logo="http://epg.one/img/5818.png" group-title="Новости",Прима (1080p)
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 #EXTINF:-1 tvg-id="2428" tvg-logo="http://epg.one/img/2428.png" group-title="Новости",Нано ТВ HD
