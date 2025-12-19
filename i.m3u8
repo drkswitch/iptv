@@ -87,7 +87,7 @@ http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://fast.ntvplus.tv/files/image/98/18/84/-channel!pd1.png" group-title="Новости",Соловьёв.Live HD
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 tvg-id="2288" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="Развлекательные",Суббота (rutube)
-https://rutube.ru/video/310744c10a5809da38aa445c952976da/?r=plwd
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=rTFusybLgHopWyGan6Ksuw&e=2066129797&scheme=https
 #EXTINF:-1 tvg-id="1649" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="Развлекательные",ТНТ4 Int
 https://cdn2.skygo.mn/live/disk1/TNT4/HLS-FTA/TNT4.m3u8
 #EXTINF:-1 tvg-id="680",ТНТ MUSIC
