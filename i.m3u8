@@ -9,7 +9,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-id="649" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Федеральные",ТВ Центр
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="162" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Федеральные",НТВ (HD)
-https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=G0mOOfne1afdaiybXRypDA&e=2066248256&scheme=https
 #EXTINF:-1 tvg-id="6257" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Федеральные",СТС (HD)
 http://158.101.222.193:88/georgia_play.php?id=ctctv
 #EXTINF:-1 tvg-id="1322" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer",СТС Love
