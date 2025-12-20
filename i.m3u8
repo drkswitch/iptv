@@ -10,6 +10,8 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="162" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Федеральные",НТВ (HD)
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=G0mOOfne1afdaiybXRypDA&e=2066248256&scheme=https
+#EXTINF:-1 tvg-id="427" tvg-logo="http://epg.one/img/427.png" group-title="Федеральные",5 канал
+https://edge01p.mediavitrina.ru/hls-livef8/5tv/index.m3u8?token=v2.VPutv21SX8W4KDc7E8VW8HHsjzwPsRO0LLlJRBwfaxM.GWD1UFDNb4gfVwNx5DyvMiVnb2gGLbWFr079lQjjuZc.1766853108.6cd6f144becb875bac42329bbda981b6
 #EXTINF:-1 tvg-id="6257" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Федеральные",СТС (HD)
 http://158.101.222.193:88/georgia_play.php?id=ctctv
 #EXTINF:-1 tvg-id="1322" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer",СТС Love
@@ -21,17 +23,12 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 tvg-id="1003" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.imgur.com/N2z3EZC.png" group-title="Федеральные",Пятница! Int
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1 tvg-id="1003" tvg-logo="https://i.imgur.com/N2z3EZC.png" group-title="Федеральные",Пятница! (эфир rutube)
-https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=dHnsJyH3EwUV7_BGBMdTlg&e=2066087025&scheme=https
 #EXTINF:-1 tvg-id="1003" tvg-logo="https://i.imgur.com/N2z3EZC.png" group-title="Федеральные",Пятница!
-http://vod.tuva.ru/friday/index.m3u8
+https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=dHnsJyH3EwUV7_BGBMdTlg&e=2066087025&scheme=https
 #EXTINF:-1 tvg-id="18" tvg-logo="http://epg.one/img2/18.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные",Рен ТВ (WVGA)
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 tvg-id="698" tvg-logo="http://epg.one/img/698.png" group-title="Федеральные",ТВ-3
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:-1 tvg-id="698" tvg-logo="http://epg.one/img/698.png" group-title="Федеральные",ТВ-3 (эфир rutube)
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=4nSOhnR1Ms1xMjzJLP5Trg&e=2066086620&scheme=https
 #EXTINF:-1 tvg-id="1598" tvg-logo="http://epg.one/img/1598.png" group-title="Федеральные",Че!
@@ -86,7 +83,7 @@ https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://fast.ntvplus.tv/files/image/98/18/84/-channel!pd1.png" group-title="Новости",Соловьёв.Live HD
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
-#EXTINF:-1 tvg-id="2288" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="Развлекательные",Суббота (rutube)
+#EXTINF:-1 tvg-id="2288" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="Развлекательные",Суббота
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=rTFusybLgHopWyGan6Ksuw&e=2066129797&scheme=https
 #EXTINF:-1 tvg-id="1649" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="Развлекательные",ТНТ4 Int
 https://cdn2.skygo.mn/live/disk1/TNT4/HLS-FTA/TNT4.m3u8
