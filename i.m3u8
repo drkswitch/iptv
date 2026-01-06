@@ -12,7 +12,7 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=G0mOOfne1afdaiybXRypDA&e=2066248256&scheme=https
 #EXTINF:-1 tvg-id="427" tvg-logo="http://epg.one/img/427.png" group-title="Федеральные",5 канал
 https://edge01p.mediavitrina.ru/hls-livef8/5tv/index.m3u8?token=v2.VPutv21SX8W4KDc7E8VW8HHsjzwPsRO0LLlJRBwfaxM.GWD1UFDNb4gfVwNx5DyvMiVnb2gGLbWFr079lQjjuZc.1766853108.6cd6f144becb875bac42329bbda981b6
-#EXTINF:-1 tvg-id="6257" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Федеральные",СТС (HD)
+#EXTINF:-1 tvg-id="79" tvg-logo="http://epg.one/img/79.png" group-title="Федеральные",СТС (HD)
 https://edge04p.mediavitrina.ru/hls-livef1/ctc/index.m3u8?token=v2.wWJYg2soSlRgpDbsoLuhRnII3nqPwdCM7mLTcQzHd5M.HhxndnzhQ-Vm0rlUbszjAQ6M9j1IqN5QNUozEtzkqtQ.1766853361.dbafa9dd6697cb556d55062011335d8a
 #EXTINF:-1 tvg-id="1322" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer",СТС Love
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
